@@ -882,35 +882,35 @@
 {| class="wikitable"
 ! 罗马音 !! 片假名 !! 含义
 |-
-| ta | be | mo | no || タベモノ || 食物
+| ta&nbsp;|&nbsp;be&nbsp;|&nbsp;mo&nbsp;|&nbsp;no || タベモノ || 食物
 |-
 | pan || パン || 面包
 |-
-| kon | pyu－ | ta || コンピュータ || 计算机
+| kon&nbsp;|&nbsp;pyu－&nbsp;|&nbsp;ta || コンピュータ || 计算机
 |-
-| myu－ | ji | ka | ru || ミュージカル || 音乐剧
+| myu－&nbsp;|&nbsp;ji&nbsp;|&nbsp;ka&nbsp;|&nbsp;ru || ミュージカル || 音乐剧
 |-
-| u－ | man || ウーマン || 女人
+| u－&nbsp;|&nbsp;man || ウーマン || 女人
 |-
-| he | a | pi－ | su || ヘアピース || 假发
+| he&nbsp;|&nbsp;a&nbsp;|&nbsp;pi－&nbsp;|&nbsp;su || ヘアピース || 假发
 |-
-| nu－ | do || ヌード || 裸体
+| nu－&nbsp;|&nbsp;do || ヌード || 裸体
 |-
-| me | nyu－ || メニュー || 菜单
+| me&nbsp;|&nbsp;nyu－ || メニュー || 菜单
 |-
-| ro－ | te－ | shon || ローテーション || 轮换
+| ro－&nbsp;|&nbsp;te－&nbsp;|&nbsp;shon || ローテーション || 轮换
 |-
-| ha | i | kin | gu || ハイキング || 远足
+| ha&nbsp;|&nbsp;i&nbsp;|&nbsp;kin&nbsp;|&nbsp;gu || ハイキング || 远足
 |-
-| kyan | se | ru || キャンセル || 取消
+| kyan&nbsp;|&nbsp;se&nbsp;|&nbsp;ru || キャンセル || 取消
 |-
-| ha | ne | mu－n || ハネムーン || 蜜月
+| ha&nbsp;|&nbsp;ne&nbsp;|&nbsp;mu－n || ハネムーン || 蜜月
 |-
-| ku | ri | su | ma | su | tsu | ri－ || クリスマスツリー || 圣诞树
+| ku&nbsp;|&nbsp;ri&nbsp;|&nbsp;su&nbsp;|&nbsp;ma&nbsp;|&nbsp;su&nbsp;|&nbsp;tsu&nbsp;|&nbsp;ri－ || クリスマスツリー || 圣诞树
 |-
-| ra | i | to || ライト || 灯光
+| ra&nbsp;|&nbsp;i&nbsp;|&nbsp;to || ライト || 灯光
 |-
-| na | i | to | ge－ | mu || ナイトゲーム || 夜间比赛
+| na&nbsp;|&nbsp;i&nbsp;|&nbsp;to&nbsp;|&nbsp;ge－&nbsp;|&nbsp;mu || ナイトゲーム || 夜间比赛
 |}
 
 ==== 片假名书写练习二（特殊发音） ====
