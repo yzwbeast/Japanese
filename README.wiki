@@ -854,3 +854,138 @@
 |-
 | French fries || フライドポテト (fried potato)
 |}
+
+== 片假名练习 ==
+
+本练习旨在帮助学习者熟悉片假名的书写、发音及其在外来语中的应用。
+
+=== 片假名记忆测试 ===
+下表用于测试你的片假名记忆能力（点击 "flip" 切换显示片假名）。「ヲ」因使用频率极低而被移除。
+
+{| class="wikitable"
+! n !! w !! r !! y !! m !! h !! n !! t !! s !! k !! a 行
+|-
+| ン || flip ワ || flip ラ || flip ヤ || flip マ || flip ハ || flip ナ || flip タ || flip サ || flip カ || flip ア
+|-
+| &nbsp; || &nbsp; || flip リ || &nbsp; || flip ミ || flip ヒ || flip ニ || flip チ || flip シ || flip キ || flip イ
+|-
+| &nbsp; || &nbsp; || flip ル || flip ユ || flip ム || flip フ || flip ヌ || flip ツ || flip ス || flip ク || flip ウ
+|-
+| &nbsp; || &nbsp; || flip レ || &nbsp; || flip メ || flip ヘ || flip ネ || flip テ || flip セ || flip ケ || flip エ
+|-
+| &nbsp; || &nbsp; || flip ロ || flip ヨ || flip モ || flip ホ || flip ノ || flip ト || flip ソ || flip コ || flip オ
+|}
+
+=== 片假名书写练习 ===
+本练习旨在帮助学习者正确书写片假名单词，并熟悉外来语在日语中的发音规律。
+
+==== 片假名书写练习一（基础词汇） ====
+{| class="wikitable"
+! 編號 !! 羅馬拼音 !! 片假名
+|-
+| 1. || pan || パン
+|-
+| 2. || kon | pyu－ | ta || コンピュータ
+|-
+| 3. || myu－ | ji | ka | ru || ミュージカル
+|-
+| 4. || u－ | man || ウーマン
+|-
+| 5. || he | a | pi－ | su || ヘアピース
+|-
+| 6. || nu－ | do || ヌード
+|-
+| 7. || me | nyu－ || メニュー
+|-
+| 8. || ro－ | te－ | shon || ローテーション
+|-
+| 9. || ha | i | kin | gu || ハイキング
+|-
+| 10. || kyan | se | ru || キャンセル
+|-
+| 11. || ha | ne | mu－n || ハネムーン
+|-
+| 12. || ku | ri | su | ma | su | tsu | ri－ || クリスマスツリー
+|-
+| 13. || ra | i | to || ライト
+|-
+| 14. || na | i | to | ge－ | mu || ナイトゲーム
+|}
+
+==== 片假名书写练习二（特殊发音） ====
+此部分涵盖日语中较难书写的片假名单词，包括不规则发音的外来语。
+
+{| class="wikitable"
+! 罗马音 !! 片假名 !! 含义
+|-
+| eizuwirusu || エイズウイルス || 艾滋病毒
+|-
+| no－susai・do || ノースサイド || 北侧
+|-
+| infome－shon || インフォメーション || 信息
+|-
+| purojekuto || プロジェクト || 项目
+|-
+| fasuto fu－do || ファストフード || 快餐
+|-
+| sherusukuriputo || シェルスクリプト || Shell 脚本
+|-
+| we－toresu || ウェートレス || 女服务员
+|-
+| maiho－mu || マイホーム || 自己的房子
+|-
+| chi－muwaku || チームワーク || 团队合作
+|-
+| minisu ka－to || ミニスカート || 迷你裙
+|-
+| re－za－disuku || レーザーディスク || 激光唱片
+|-
+| chenji || チェンジ || 变更
+|-
+| regyura－ || レギュラー || 常规
+|-
+| weitorifutingu || ウェイトリフティング || 举重
+|}
+
+=== 片假名拼写规则 ===
+在将英语单词转换为片假名时，需要遵循以下规则：
+* **L/R 无区分**：日语不区分 L 和 R，均用「ラ行」表示。
+  * Ready → レディ
+  * Lady → レディ
+* **长元音的表示**：连续元音或以 / r / 结尾的单词通常会变成长音（ー）。
+  * Target → ターゲット
+  * Shoot → シュート
+* **促音（小ッ）**：用于表示去声的 / t / 或 / c / 结尾。
+  * Catch → キャッチ
+  * Cache → キャッシュ
+* **辅音结尾的补充元音**：日语以元音结尾，除「ン」外，其他辅音结尾的词通常添加元音：
+  * Good → グッド
+  * Top → トップ
+  * Jack → ジャック
+
+=== 英语到片假名转换练习 ===
+本练习涵盖常见的外来语转换。
+
+{| class="wikitable"
+! 英文 !! 片假名 !! 含义
+|-
+| check || チェック || 检查
+|-
+| violin || バイオリン || 小提琴
+|-
+| jet coaster (roller coaster) || ジェットコースター || 过山车
+|-
+| window shopping || ウィンドーショッピング || 逛街
+|-
+| salsa || サルサ || 萨尔萨舞
+|-
+| hotdog || ホットドッグ || 热狗
+|-
+| suitcase || スーツケース || 行李箱
+|-
+| kitchen || キッチン || 厨房
+|-
+| restaurant || レストラン || 餐厅
+|-
+| New York || ニューヨーク || 纽约
+|}
