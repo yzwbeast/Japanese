@@ -860,20 +860,19 @@
 本练习旨在帮助学习者熟悉片假名的书写、发音及其在外来语中的应用。
 
 === 片假名记忆测试 ===
-下表用于测试你的片假名记忆能力（点击 "flip" 切换显示片假名）。「ヲ」因使用频率极低而被移除。
 
 {| class="wikitable"
 ! n !! w !! r !! y !! m !! h !! n !! t !! s !! k !! a 行
 |-
-| ン || flip ワ || flip ラ || flip ヤ || flip マ || flip ハ || flip ナ || flip タ || flip サ || flip カ || flip ア
+| ン ||  ワ ||  ラ ||  ヤ ||  マ ||  ハ ||  ナ ||  タ ||  サ ||  カ ||  ア
 |-
-| &nbsp; || &nbsp; || flip リ || &nbsp; || flip ミ || flip ヒ || flip ニ || flip チ || flip シ || flip キ || flip イ
+| &nbsp; || &nbsp; ||  リ || &nbsp; ||  ミ ||  ヒ ||  ニ ||  チ ||  シ ||  キ ||  イ
 |-
-| &nbsp; || &nbsp; || flip ル || flip ユ || flip ム || flip フ || flip ヌ || flip ツ || flip ス || flip ク || flip ウ
+| &nbsp; || &nbsp; ||  ル ||  ユ ||  ム ||  フ ||  ヌ ||  ツ ||  ス ||  ク ||  ウ
 |-
-| &nbsp; || &nbsp; || flip レ || &nbsp; || flip メ || flip ヘ || flip ネ || flip テ || flip セ || flip ケ || flip エ
+| &nbsp; || &nbsp; ||  レ || &nbsp; ||  メ ||  ヘ ||  ネ ||  テ ||  セ ||  ケ ||  エ
 |-
-| &nbsp; || &nbsp; || flip ロ || flip ヨ || flip モ || flip ホ || flip ノ || flip ト || flip ソ || flip コ || flip オ
+| &nbsp; || &nbsp; ||  ロ ||  ヨ ||  モ ||  ホ ||  ノ ||  ト ||  ソ ||  コ ||  オ
 |}
 
 === 片假名书写练习 ===
@@ -881,35 +880,37 @@
 
 ==== 片假名书写练习一（基础词汇） ====
 {| class="wikitable"
-! 編號 !! 羅馬拼音 !! 片假名
+! 罗马音 !! 片假名 !! 含义
 |-
-| 1. || pan || パン
+| ta | be | mo | no || タベモノ || 食物
 |-
-| 2. || kon | pyu－ | ta || コンピュータ
+| pan || パン || 面包
 |-
-| 3. || myu－ | ji | ka | ru || ミュージカル
+| kon | pyu－ | ta || コンピュータ || 计算机
 |-
-| 4. || u－ | man || ウーマン
+| myu－ | ji | ka | ru || ミュージカル || 音乐剧
 |-
-| 5. || he | a | pi－ | su || ヘアピース
+| u－ | man || ウーマン || 女人
 |-
-| 6. || nu－ | do || ヌード
+| he | a | pi－ | su || ヘアピース || 假发
 |-
-| 7. || me | nyu－ || メニュー
+| nu－ | do || ヌード || 裸体
 |-
-| 8. || ro－ | te－ | shon || ローテーション
+| me | nyu－ || メニュー || 菜单
 |-
-| 9. || ha | i | kin | gu || ハイキング
+| ro－ | te－ | shon || ローテーション || 轮换
 |-
-| 10. || kyan | se | ru || キャンセル
+| ha | i | kin | gu || ハイキング || 远足
 |-
-| 11. || ha | ne | mu－n || ハネムーン
+| kyan | se | ru || キャンセル || 取消
 |-
-| 12. || ku | ri | su | ma | su | tsu | ri－ || クリスマスツリー
+| ha | ne | mu－n || ハネムーン || 蜜月
 |-
-| 13. || ra | i | to || ライト
+| ku | ri | su | ma | su | tsu | ri－ || クリスマスツリー || 圣诞树
 |-
-| 14. || na | i | to | ge－ | mu || ナイトゲーム
+| ra | i | to || ライト || 灯光
+|-
+| na | i | to | ge－ | mu || ナイトゲーム || 夜间比赛
 |}
 
 ==== 片假名书写练习二（特殊发音） ====
@@ -918,33 +919,35 @@
 {| class="wikitable"
 ! 罗马音 !! 片假名 !! 含义
 |-
-| eizuwirusu || エイズウイルス || 艾滋病毒
+| bi－ | chi || ビーチ || 海滩
 |-
-| no－susai・do || ノースサイド || 北侧
+| e | i | zu | wi | ru | su || エイズウイルス || 艾滋病毒（可能笔误，正确写法应为 エイズウィルス）
 |-
-| infome－shon || インフォメーション || 信息
+| no－ | su | sa | i | do || ノースサイド || 北侧
 |-
-| purojekuto || プロジェクト || 项目
+| in | fo | me－ | shon || インフォメーション || 信息
 |-
-| fasuto fu－do || ファストフード || 快餐
+| pu | ro | je | ku | to || プロジェクト || 项目
 |-
-| sherusukuriputo || シェルスクリプト || Shell 脚本
+| fa | su | to | fu－ | do || ファストフード || 快餐
 |-
-| we－toresu || ウェートレス || 女服务员
+| she | ru | su | ku | ri | pu | to || シェルスクリプト || Shell 脚本
 |-
-| maiho－mu || マイホーム || 自己的房子
+| we－ | to | re | su || ウェートレス || 女服务员
 |-
-| chi－muwaku || チームワーク || 团队合作
+| ma | i | ho－ | mu || マイホーム || 自己的房子
 |-
-| minisu ka－to || ミニスカート || 迷你裙
+| chi－ | mu | wa－ | ku || チームワーク || 团队合作
 |-
-| re－za－disuku || レーザーディスク || 激光唱片
+| mi | ni | su | ka－ | to || ミニスカート || 迷你裙
 |-
-| chenji || チェンジ || 变更
+| re－ | za－ | di | su | ku || レーザーディスク || 激光唱片
 |-
-| regyura－ || レギュラー || 常规
+| chen | ji || チェンジ || 变更
 |-
-| weitorifutingu || ウェイトリフティング || 举重
+| re | gyu | ra－ || レギュラー || 常规
+|-
+| we | i | to | ri | fu | tin | gu || ウエイトリフティング || 举重（可能笔误，正确写法应为 ウェイトリフティング）
 |}
 
 === 片假名拼写规则 ===
