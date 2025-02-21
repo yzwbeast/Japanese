@@ -882,35 +882,35 @@
 {| class="wikitable"
 ! 罗马音 !! 片假名 !! 含义
 |-
-| ta&nbsp;|&nbsp;be&nbsp;|&nbsp;mo&nbsp;|&nbsp;no || タベモノ || 食物
+| ta | be | mo | no || タベモノ || 食物
 |-
 | pan || パン || 面包
 |-
-| kon&nbsp;|&nbsp;pyu－&nbsp;|&nbsp;ta || コンピュータ || 计算机
+| kon pyu－ ta || コンピュータ || 计算机
 |-
-| myu－&nbsp;|&nbsp;ji&nbsp;|&nbsp;ka&nbsp;|&nbsp;ru || ミュージカル || 音乐剧
+| myu－ ji ka ru || ミュージカル || 音乐剧
 |-
-| u－&nbsp;|&nbsp;man || ウーマン || 女人
+| u－ man || ウーマン || 女人
 |-
-| he&nbsp;|&nbsp;a&nbsp;|&nbsp;pi－&nbsp;|&nbsp;su || ヘアピース || 假发
+| he a pi－ su || ヘアピース || 假发
 |-
-| nu－&nbsp;|&nbsp;do || ヌード || 裸体
+| nu－ do || ヌード || 裸体
 |-
-| me&nbsp;|&nbsp;nyu－ || メニュー || 菜单
+| me nyu－ || メニュー || 菜单
 |-
-| ro－&nbsp;|&nbsp;te－&nbsp;|&nbsp;shon || ローテーション || 轮换
+| ro－ te－ shon || ローテーション || 轮换
 |-
-| ha&nbsp;|&nbsp;i&nbsp;|&nbsp;kin&nbsp;|&nbsp;gu || ハイキング || 远足
+| ha i kin gu || ハイキング || 远足
 |-
-| kyan&nbsp;|&nbsp;se&nbsp;|&nbsp;ru || キャンセル || 取消
+| kyan se ru || キャンセル || 取消
 |-
-| ha&nbsp;|&nbsp;ne&nbsp;|&nbsp;mu－n || ハネムーン || 蜜月
+| ha ne mu－n || ハネムーン || 蜜月
 |-
-| ku&nbsp;|&nbsp;ri&nbsp;|&nbsp;su&nbsp;|&nbsp;ma&nbsp;|&nbsp;su&nbsp;|&nbsp;tsu&nbsp;|&nbsp;ri－ || クリスマスツリー || 圣诞树
+| ku ri su ma su tsu ri－ || クリスマスツリー || 圣诞树
 |-
-| ra&nbsp;|&nbsp;i&nbsp;|&nbsp;to || ライト || 灯光
+| ra i to || ライト || 灯光
 |-
-| na&nbsp;|&nbsp;i&nbsp;|&nbsp;to&nbsp;|&nbsp;ge－&nbsp;|&nbsp;mu || ナイトゲーム || 夜间比赛
+| na i to ge－ mu || ナイトゲーム || 夜间比赛
 |}
 
 ==== 片假名书写练习二（特殊发音） ====
@@ -919,52 +919,50 @@
 {| class="wikitable"
 ! 罗马音 !! 片假名 !! 含义
 |-
-| bi－ | chi || ビーチ || 海滩
+| e i zu wi ru su || エイズウイルス（译者注：疑似笔误，应改为エイズウイルス） || 艾滋病毒
 |-
-| e | i | zu | wi | ru | su || エイズウイルス || 艾滋病毒（可能笔误，正确写法应为 エイズウィルス）
+| no－ su sai do || ノースサイド || 北侧
 |-
-| no－ | su | sa | i | do || ノースサイド || 北侧
+| in fo me－ shon || インフォメーション || 信息
 |-
-| in | fo | me－ | shon || インフォメーション || 信息
+| pu ro ji e ku to || プロジェクト || 项目
 |-
-| pu | ro | je | ku | to || プロジェクト || 项目
+| fa su to fu－ do || ファストフード || 快餐
 |-
-| fa | su | to | fu－ | do || ファストフード || 快餐
+| she ru su ku ri pu to || シェルスクリプト || Shell 脚本
 |-
-| she | ru | su | ku | ri | pu | to || シェルスクリプト || Shell 脚本
+| we－ to re su || ウェートレス || 女服务员
 |-
-| we－ | to | re | su || ウェートレス || 女服务员
+| ma i ho－ mu || マイホーム || 我的家
 |-
-| ma | i | ho－ | mu || マイホーム || 自己的房子
+| chi－ mu wa－ ku || チームワーク || 团队合作
 |-
-| chi－ | mu | wa－ | ku || チームワーク || 团队合作
+| mi ni su ka－ to || ミニスカート || 迷你裙
 |-
-| mi | ni | su | ka－ | to || ミニスカート || 迷你裙
+| re－ za－ di su ku || レーザーディスク || 激光唱片
 |-
-| re－ | za－ | di | su | ku || レーザーディスク || 激光唱片
+| chen ji || チェンジ || 变更
 |-
-| chen | ji || チェンジ || 变更
+| re gyu ra－ || レギュラー || 常规
 |-
-| re | gyu | ra－ || レギュラー || 常规
-|-
-| we | i | to | ri | fu | tin | gu || ウエイトリフティング || 举重（可能笔误，正确写法应为 ウェイトリフティング）
+| we i to ri fu tin gu || ウェイトリフティング（译者注：疑似笔误，应改为ウェイトリフティング） || 举重
 |}
 
 === 片假名拼写规则 ===
 在将英语单词转换为片假名时，需要遵循以下规则：
-* **L/R 无区分**：日语不区分 L 和 R，均用「ラ行」表示。
-  * Ready → レディ
-  * Lady → レディ
-* **长元音的表示**：连续元音或以 / r / 结尾的单词通常会变成长音（ー）。
-  * Target → ターゲット
-  * Shoot → シュート
-* **促音（小ッ）**：用于表示去声的 / t / 或 / c / 结尾。
-  * Catch → キャッチ
-  * Cache → キャッシュ
-* **辅音结尾的补充元音**：日语以元音结尾，除「ン」外，其他辅音结尾的词通常添加元音：
-  * Good → グッド
-  * Top → トップ
-  * Jack → ジャック
+* '''L/R 无区分'''：日语不区分 L 和 R，均用「ラ行」表示。
+** Ready → レディ
+** Lady → レディ
+* '''长元音的表示'''：连续元音或以 / r / 结尾的单词通常会变成长音（ー）。
+** Target → ターゲット
+** Shoot → シュート
+* '''促音（小ッ）'''：用于表示去声的 / t / 或 / c / 结尾。
+** Catch → キャッチ
+** Cache → キャッシュ
+* '''辅音结尾的补充元音'''：日语以元音结尾，除「ン」外，其他辅音结尾的词通常添加元音：
+** Good → グッド
+** Top → トップ
+** Jack → ジャック
 
 === 英语到片假名转换练习 ===
 本练习涵盖常见的外来语转换。
